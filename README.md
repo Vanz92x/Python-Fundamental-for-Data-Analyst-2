@@ -93,7 +93,7 @@ Returns a list of column labels from a DataFrame. This makes it possible to find
 <div align="center"><img src="https://github.com/Vanz92x/Python-Fundamental-for-Data-Analyst-2/assets/165736197/5c26835d-f92a-4258-b0bb-1a56112c7cac" /></div>
 
 ### Index()
-A series of labels that identify each row. The labels can be integers, strings, or any other hashable type.
+Provides information about the index labels of the DataFrame.
 <div align="center"><img src="https://github.com/Vanz92x/Python-Fundamental-for-Data-Analyst-2/assets/165736197/da00821e-54b2-41bf-9d9b-ce1c6611a250" /></div>
 
 ### Describe()
