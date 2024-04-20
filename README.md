@@ -3,7 +3,7 @@
 Welcome to "Python Fundamentals for Data Analyst Part 2"!🐍
 
 Here, you will find a variety of materials and code examples designed to deepen your understanding of the Python fundamentals that are essential to becoming a competent data analyst.
-Various topics have been prepared from learning about using functions, utilizing the NumPy library, and processing data using Pandas.
+Various topics have been prepared from learning about using functions, utilizing the NumPy library, and processing data using Pandas, Random, Datetime, and Txt Files (Open, Read, Close).
 
 We hope that the materials we present can help you develop your data analysis skills using Python. 
 
@@ -109,7 +109,7 @@ Calculates the median of the values in a DataFrame. Median is the middle value i
 <div align="center"><img src="https://github.com/Vanz92x/Python-Fundamental-for-Data-Analyst-2/assets/165736197/6c85e55c-57ff-4a38-ab22-b1665eae9deb" /></div>
 
 ### Mode
-calculates the mode of the values in a DataFrame. The mode is the value that appears most frequently in the dataset.
+Calculates the mode of the values in a DataFrame. The mode is the value that appears most frequently in the dataset.
 <div align="center"><img src="https://github.com/Vanz92x/Python-Fundamental-for-Data-Analyst-2/assets/165736197/c3f5f18e-cbd8-4427-91d9-6b06ef984fbc" /></div>
 
 ### Min and Max
@@ -122,15 +122,6 @@ calculates the mode of the values in a DataFrame. The mode is the value that app
 ### Mask
 Replace values where the condition is True.
 <div align="center"><img src="https://github.com/Vanz92x/Python-Fundamental-for-Data-Analyst-2/assets/165736197/3402ca70-0f1d-4caa-a821-26118556d172" /></div>
-
-### Unique()
-To get the unique elements of a data structure like list, we can use set(). Set is a data structure that contains only unique elements.
-<div align="center"><img src="https://github.com/Vanz92x/Python-Fundamental-for-Data-Analyst-2/assets/165736197/398a54d7-3dca-47f1-b80e-cf4f35dfeb88" /></div>
-
-### Nunique()
-To get repeated or duplicate elements from a data structure, we can use various approaches, for example by using certain functions or modules, or by manually looping through the data structure.
-![image](https://github.com/Vanz92x/Python-Fundamental-for-Data-Analyst-2/assets/165736197/19588b0c-c1ae-4767-a29f-5a94784e185b)
-
 
 
 
