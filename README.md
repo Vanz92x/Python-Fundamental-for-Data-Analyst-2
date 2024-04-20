@@ -97,7 +97,7 @@ Provides information about the index labels of the DataFrame.
 <div align="center"><img src="https://github.com/Vanz92x/Python-Fundamental-for-Data-Analyst-2/assets/165736197/da00821e-54b2-41bf-9d9b-ce1c6611a250" /></div>
 
 ### Describe()
-Generates descriptive statistics that summarize the central tendency, dispersion and shape of a dataset's distribution, excluding NaN values.
+Generates summary descriptive statistics from the DataFrame, which includes some general statistics about the numeric columns in the DataFrame
 <div align="center"><img src="https://github.com/Vanz92x/Python-Fundamental-for-Data-Analyst-2/assets/165736197/6fe05c8f-ebfc-4528-a975-d1ef2845c506" /></div>
 
 ### Mean
