@@ -244,7 +244,10 @@ To open the file, use the built-in open() function. The open() function returns 
 `Example Syntax : workfile = open ('stok.txt' , 'r')` 
   
 - Read
-  In the code snippet above, we read the content of the file using the read() method. 
+  In the code snippet above, we read the content of the file using the read() method.
+
+# Python Journey🐍
+Thank you for joining the Python Fundamentals for Data Analyst Part 2 adventure! We hope the materials we've provided inspire and enrich your knowledge in data analysis using Python. Stay enthusiastic in exploring the world of data, and don't hesitate to share your discoveries with the community. See you on the next journey! 🌟
 
 
 
